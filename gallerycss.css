@@ -5,18 +5,21 @@
 body
 {
     background-color: rgb(60,60,60);
+    max-width:100%;
 }
 
 nav{
     width:100%;
     height:100px;
     background-color:gray;
+    max-width:100%;
 }
 nav h1{
     text-align:center;
         line-height:100px;
         font-size:xx-large;
         color:aliceblue;
+    max-width:100%;
 }
 
 .imagebox{
@@ -33,13 +36,16 @@ nav h1{
     margin:15px;
     float:left;
     padding:0px 20px 0px 20px;
+    max-width:100%;
 }
 
 div img {
     width:100%;
     height:auto;
+    max-width:100%;
 }
 
 .imagebox:hover {
     border: 2px solid black;
+    max-width:100%;
 }
