@@ -39,6 +39,7 @@ ul li{
     list-style-type:none;
     position:relative;
     top:10px;
+    max-width:100%;
 }
 
 .nav{
@@ -48,23 +49,26 @@ ul li{
    height: 80px;
    background-color: rgb(245, 242, 242);
    font-family: 'Lucida Calligraphy';
+    max-width:100%;
 }
 
 li:hover{
     background-color:grey;
     color:rgb(245, 242, 242);
-
+    max-width:100%;
 
 }
 nav h2:hover {
     background-color: #C0C0C0;
     color: rgb(245, 242, 242);
+    max-width:100%;
 }
 
 .slideshow-container {
     width: 100%;
     position: relative;
     margin: auto;
+    
 }
 
 .slides {
@@ -147,6 +151,7 @@ img{
     height: 500px;
     background-color: rgb(245, 242, 242);
     position:relative;
+    max-width:100%;
 }
 
 .habt{
@@ -156,6 +161,7 @@ img{
     margin:0px;
     top:50px;
     font-size:30px;
+    max-width:100%;
 
 }
 
@@ -163,6 +169,7 @@ img{
     position:relative;
     left:90px;
     top:60px;
+    max-width:100%;
 }
 .box1 {
     width: 300px;
@@ -171,6 +178,7 @@ img{
     position: absolute;
     left: 100px;
     top: 140px;
+    max-width:100%;
 }
 
 .box2 {
@@ -180,6 +188,7 @@ img{
     position: absolute;
     left: 600px;
     top: 140px;
+    max-width:100%;
 }
 
 .box3 {
@@ -189,6 +198,7 @@ img{
     position: absolute;
     left: 1100px;
     top: 140px;
+    max-width:100%;
 }
 
 .team{
@@ -196,6 +206,7 @@ img{
     height:500px;
     background-color:rgb(60,60,60);
     //position:relative;
+    max-width:100%;
 
 }
 
@@ -207,6 +218,7 @@ img{
     text-align: center;
     top:100px;
     left:650px;
+    max-width:100%;
 }
 
 .bt{
@@ -216,4 +228,5 @@ img{
     //border-style:dashed;
     //box-shadow:rgb(60,60,60);
     background-image:linear-gradient(to top,#808080,white);
+    max-width:100%;
 }
