@@ -17,6 +17,9 @@ body{
     background-color: snow;
     position:relative;
 }
+.nav a{
+    color:black;
+}
 
 .logo{
     font-size:200%;
