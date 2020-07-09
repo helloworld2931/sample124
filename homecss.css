@@ -248,6 +248,8 @@ header {
     .quo{
         height:auto;
     }
+    .last{
+        height:auto;}
 
 }
 
@@ -295,4 +297,7 @@ header {
     .quo {
         height: auto;
     }
+    .last{
+        height:auto;}
+
 }
