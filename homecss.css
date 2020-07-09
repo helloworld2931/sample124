@@ -88,6 +88,9 @@ ul li a:hover{
     box-sizing:border-box;
     cursor:pointer;
 }
+.box p{
+    text-transform: lowercase;
+}
 .coll {
     background: black;
     text-align: center;
